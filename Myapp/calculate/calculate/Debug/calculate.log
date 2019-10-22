@@ -1,0 +1,83 @@
+﻿  calculate.cpp
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(11,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(32,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 参见“itoa”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(33,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 参见“itoa”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(34,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(35,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(40,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 参见“itoa”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(45,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 参见“itoa”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(46,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 参见“itoa”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(47,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(48,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(49,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 参见“itoa”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(50,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(51,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(104,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(105,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(106,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(107,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(115,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(116,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(117,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(118,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(126,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(127,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(128,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(129,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(137,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(138,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(139,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(140,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(172,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(160,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(163,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(182,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(188,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(208,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(218,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(232,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+  calculate.vcxproj -> C:\Users\85291\Desktop\solfware\3\cal\calculate\Debug\calculate.exe
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(160): warning C6031: 返回值被忽略: “scanf”。
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(163): warning C6031: 返回值被忽略: “scanf”。
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(218): warning C6031: 返回值被忽略: “fscanf”。
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(171): warning C6011: 取消对 NULL 指针“result”的引用。
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(208): warning C6054: 可能没有为字符串“ans”添加字符串零终止符。
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(219): warning C6054: 可能没有为字符串“temps”添加字符串零终止符。
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(219): warning C6387: “result[i]”可能是“0”: 这不符合函数“strcmp”的规范。
+C:\Users\85291\Desktop\solfware\3\cal\calculate\calculate\calculate.cpp(226): warning C6011: 取消对 NULL 指针“judge”的引用。
